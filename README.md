@@ -10,3 +10,11 @@ To install the necessary prerequisites, please refer to [Touchegg documentation]
 ## **Editing using GUI**
 You can edit the config files with [Touché](https://github.com/JoseExposito/touche).
 
+## **Usage**
+
+| Gesture      | Direction |  Action |
+| ----------- | ----------- | ----------- |
+| Four finger swipe     | Left/Right       | Switch workspace       |
+| Four finger swipe   | Up/Down        |  Application overview       |
+| Three finger pinch   | In/Out        |  Workspace overview       |
+| Browser (Firefox/Chromium/Chrome)  | Three fingers left/right       |  Back / Forward       |
