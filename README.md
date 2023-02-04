@@ -4,6 +4,7 @@ This repository contains a configuration file for Touchegg on *Cinnamon* DE.
 To install the necessary prerequisites, please refer to [Touchegg documentation](https://github.com/JoseExposito/touchegg). 
 
 Run the following commands to install this config:
+
     git clone https://github.com/NinoMrvelj/mint-touchegg
     cd mint-touchegg
     mkdir ~/.config/touchegg
