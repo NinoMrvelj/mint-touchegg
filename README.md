@@ -24,7 +24,7 @@ You can edit the config files with [Touché](https://github.com/JoseExposito/tou
 
 ## **Credits**
 
-Touchegg was created and maintained by Jose Exposito. 
+Touchegg was created and is maintained by Jose Exposito. 
 
 ## **Contributing**
 
